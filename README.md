@@ -41,4 +41,7 @@ Usaré la siguiente estructura, que estará en sintonía con el sistema de archi
 	Tests/
 	Frameworks/
 
-### Formateo
+### Formate
+	clase/
+		dos
+		tres
