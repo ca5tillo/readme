@@ -45,5 +45,5 @@ Usaré la siguiente estructura, que estará en sintonía con el sistema de archi
 	clase/
 		dos
 		tres
-*hola:
+* hola:
 algo
