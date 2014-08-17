@@ -3,16 +3,7 @@ readme
 
 >hola
 
-#hola
 
-##hola
-
-###hola
-
-####hola
-
-#####hola5
-=========
 
 Usaré la siguiente estructura, que estará en sintonía con el sistema de archivos:
 
@@ -49,5 +40,5 @@ Usaré la siguiente estructura, que estará en sintonía con el sistema de archi
 
 algo
 * hola:
-
-algo
+	algoj
+	casa
