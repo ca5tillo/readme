@@ -40,5 +40,6 @@ Usaré la siguiente estructura, que estará en sintonía con el sistema de archi
 
 algo
 * hola:
-	algoj
-	casa
+	clase/
+		dos
+		tres
