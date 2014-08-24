@@ -293,7 +293,7 @@ payload and save it to Local Storage for subsequent use after page reload.
 
 <hr>
 
-<img src="http://www.doit.ba/img/facebook.jpg" width="150">
+[<img src="http://www.doit.ba/img/facebook.jpg" width="150">](https://www.facebook.com/)
 - Visit [Facebook Developers](https://developers.facebook.com/)
 - Click **Apps > Create a New App** in the navigation bar
 - Enter *Display Name*, then choose a category, then click **Create app**
