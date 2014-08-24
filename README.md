@@ -1,5 +1,5 @@
 
-![Project Logo](./img/fondo-de-la-luna.jpg)
+![Project Logo](./mig/fondo-de-la-luna.jpg)
 
 # [Satellizer](https://github.com/sahat/satellizer/) 
 [![Build Status](http://img.shields.io/travis/sahat/satellizer.svg?style=flat)](https://travis-ci.org/sahat/satellizer) 
