@@ -1,4 +1,4 @@
-**:clapper: Live Demo:** [http://satellizer.herokuapp.com](http://satellizer.herokuapp.com)
+**:clapper: algo:** [http://satellizer.herokuapp.com](http://satellizer.herokuapp.com)
 
 
 
