@@ -303,7 +303,7 @@ payload and save it to Local Storage for subsequent use after page reload.
 
 <hr>
 
-<img src="./img/fondo-de-la-luna.jpg" height="70">
+<img src="./mig/fondo-de-la-luna.jpg" height="70">
 - Sign in at [https://dev.twitter.com](https://dev.twitter.com/)
 - From the profile picture dropdown menu select **My Applications**
 - Click **Create a new application**
