@@ -1,5 +1,5 @@
 
-![Project Logo](https://lh6.googleusercontent.com/-YmfKZZLZKL0/U-KVPFSbiOI/AAAAAAAAEZA/maoYT8iJCnA/w1089-h513-no/sshot-1.png)
+![Project Logo](./img/fondo-de-la-luna.jpg)
 
 # [Satellizer](https://github.com/sahat/satellizer/) 
 [![Build Status](http://img.shields.io/travis/sahat/satellizer.svg?style=flat)](https://travis-ci.org/sahat/satellizer) 
@@ -303,7 +303,7 @@ payload and save it to Local Storage for subsequent use after page reload.
 
 <hr>
 
-<img src="http://indonesia-royal.com/wp-content/uploads/2014/06/twitter-bird-square-logo.jpg" height="70">
+<img src="./img/fondo-de-la-luna.jpg" height="70">
 - Sign in at [https://dev.twitter.com](https://dev.twitter.com/)
 - From the profile picture dropdown menu select **My Applications**
 - Click **Create a new application**
@@ -422,7 +422,7 @@ $http.put('/api/me', profileData).then(function(response) {
 
 ## TODO
 
-- [ ] C# (ASP.NET vNext) implementation
+- [x] C# (ASP.NET vNext) implementation
 - [ ] Elixir (Phoenix) implementation
 - [ ] Ruby (Sinatra) implementation
 - [ ] Go (Martini) implementation
