@@ -2,8 +2,8 @@
 
 
 
-[![Version](http://img.shields.io/badge/version-0.5.1-orange.svg?style=flat)](https://www.npmjs.org/package/satellizer)
+[![Version](./version-0.5.1-orange.svg)](https://www.npmjs.org/package/satellizer)
 
 
 
-![Screenshot](https://lh4.googleusercontent.com/-0UUIecT-3N4/U-LQJkd75iI/AAAAAAAAEZY/YN3Oe-eUPGc/w1676-h1158-no/satellizer.png)
+<img src="http://indonesia-royal.com/wp-content/uploads/2014/06/twitter-bird-square-logo.jpg" height="70">
