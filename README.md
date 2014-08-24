@@ -2,8 +2,7 @@
 
 
 
-[![Build Status](http://img.shields.io/travis/sahat/satellizer.svg?style=flat)](https://travis-ci.org/sahat/satellizer) 
-
+[![Version](http://img.shields.io/badge/version-0.5.1-orange.svg?style=flat)](https://www.npmjs.org/package/satellizer)
 
 
 
