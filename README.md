@@ -1,45 +1,10 @@
-readme
-======
-
->hola
+**:clapper: Live Demo:** [http://satellizer.herokuapp.com](http://satellizer.herokuapp.com)
 
 
 
-Usaré la siguiente estructura, que estará en sintonía con el sistema de archivos:
+[![Build Status](http://img.shields.io/travis/sahat/satellizer.svg?style=flat)](https://travis-ci.org/sahat/satellizer) 
 
-	Classes/
-		AppDelegate.h			/* Nombre obligatorio */
-		AppDelegate.m
-		Controllers/
-			Delegates/
-		Models/
-			Delegates/		
-		Views/
-			Delegates/		
-	Supporting/
-		Preffix.pch				/* Nombre obligatorio */
-		main.m
-		Info.plist				/* Nombre obligatorio */
-		Localizable.strings
-	Resources/
-		*.storyboard
-		XIB/		
-		Images/
-		Audio/
-		Videos/
-	Lib/						/* Extra libraries */
-	External/					/* External repositories */
-	Tests/
-	Frameworks/
 
-### Formate
-	clase/
-		dos
-		tres
-* hola:
 
-algo
-* hola:
-	clase/
-		dos
-		tres
+
+![Screenshot](https://lh4.googleusercontent.com/-0UUIecT-3N4/U-LQJkd75iI/AAAAAAAAEZY/YN3Oe-eUPGc/w1676-h1158-no/satellizer.png)
